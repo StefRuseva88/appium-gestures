@@ -5,7 +5,7 @@
 [![Appium](https://img.shields.io/badge/tested%20with-Appium-41BDF5.svg)](https://appium.io/)
 
 ### This is a test project for Front-End Test Automation July 2024 Course @ SoftUni
-
+---
 ## Overview
 This repository provides a set of tests focused on automating common mobile gestures using **Appium** for mobile app testing, that includes gestures like taps, swipes, scrolls, drag-and-drop, and zoom using the **ApiDemos** app.
 
@@ -17,8 +17,6 @@ This repository provides a set of tests focused on automating common mobile gest
 - [Sliding Seek Bar](#sliding-seek-bar)
 - [Zoom In/Out](#zoom-in/out)
 - [Running the Tests](#running-the-tests)
-
----
 
 ### Prerequisites:
 - Install Appium Server.
@@ -38,21 +36,45 @@ Mobile gestures simulate user interactions on touch devices like smartphones and
 
 ## Scrolling
 
-### Objective:
+### Test Objective:
 - Automate scrolling actions using **Appium Inspector**.
-- Write and use the **ScrollToText** method to scroll until the text **"Lists"** is found.
+- Write the **ScrollToText** method to scroll until the text **"Lists"** is found.
 - Click on **Lists** and verify that **" Single choice list"** is displayed.
 
----
 ## Swiping
 
-### Objective:
+### Test Objective:
 - Automate swipe gestures using **Appium Inspector**.
 - Use Selenium's Actions class to simulate swiping.
 - Click and hold on the first image, move by an offset, and release.
 - Verify that the third image is visible.
 
----
+## Drag and Drop
+
+### Test Objective:
+
+- Automate drag and drop gestures.
+- Use **By.Id** to find the draggable and drop target elements.
+- Use JavaScript actions to drag and drop the first red dot over the second one.
+- Verify that the **"Dropped!"** message is displayed.
+
+## 6. Exercise 4: Sliding (Seek Bar)
+
+### Test Objective:
+- Automate sliding actions for a seek bar.
+- Use Appium Inspector's **Coordinates Mode** to get the precise sliding coordinates.
+- Slide the seek bar to a specific value and assert the value is displayed.
+- Write **MoveSeekBarWithInspectorCoordinates** method to slide the bar from the start to the end coordinates.
+- Verify the displayed value matches the expected result.
+
+## Zoom In/Out
+
+### Test Objective:
+- Automate zoom gestures using Appium Inspector.
+- Use Appium Inspector to create a zoom-in gesture and execute it.
+- Zoom out using similar steps.
+- Use the saved gesture to zoom in and out at specific coordinates on the **WebView**.
+
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
