@@ -5,4 +5,6 @@
 [![Appium](https://img.shields.io/badge/tested%20with-Appium-41BDF5.svg)](https://appium.io/)
 
 ### This is a test project for Front-End Test Automation July 2024 Course @ SoftUni
-This repository provides a set of tests focused on automating common mobile gestures using Appium for mobile app testing, that includes gestures like taps, swipes, scrolls, drag-and-drop, and zoom using the ApiDemos app.
+
+## Overview
+This repository provides a set of tests focused on automating common mobile gestures using **Appium** for mobile app testing, that includes gestures like taps, swipes, scrolls, drag-and-drop, and zoom using the **ApiDemos** app.
