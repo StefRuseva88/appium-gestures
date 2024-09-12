@@ -16,13 +16,13 @@ This repository provides a set of tests focused on automating common mobile gest
 - Set up a virtual or real Android device for testing.
 
 ### Table of Contents:
-1. Mobile Gestures Overview
-2. Exercise 1: Scrolling
-3. Exercise 2: Swiping
-4. Exercise 3: Drag and Drop
-5. Exercise 4: Sliding (Seek Bar)
-6. Exercise 5: Zoom In/Out
-7. Running the Tests
+1. [Mobile Gestures Overview](#mobile-gestures-overview)
+2. [Scrolling](#scrolling)
+3. [Swiping](#swiping)
+4. [Drag and Drop](#drag-and-drop)
+5. [Sliding Seek Bar](#sliding-seek-bar)
+6. [Zoom In/Out](#zoom-in/out)
+7. [Running the Tests](#running-the-tests)
 
 ---
 
