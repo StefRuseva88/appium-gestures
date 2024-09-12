@@ -15,7 +15,7 @@ This repository provides a set of tests focused on automating common mobile gest
 - [Swiping](#swiping)
 - [Drag and Drop](#drag-and-drop)
 - [Sliding Seek Bar](#sliding-seek-bar)
-- [Zoom In/Out](#zoom-in/out)
+- [Zoom In and Out](#zoom-in-and-out)
 - [Running the Tests](#running-the-tests)
 
 ### Prerequisites:
@@ -67,7 +67,7 @@ Mobile gestures simulate user interactions on touch devices like smartphones and
 - Write **MoveSeekBarWithInspectorCoordinates** method to slide the bar from the start to the end coordinates.
 - Verify the displayed value matches the expected result.
 
-## Zoom In/Out
+## Zoom In and Out
 
 ### Test Objective:
 - Automate zoom gestures using Appium Inspector.
