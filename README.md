@@ -58,7 +58,7 @@ Mobile gestures simulate user interactions on touch devices like smartphones and
 - Use JavaScript actions to drag and drop the first red dot over the second one.
 - Verify that the **"Dropped!"** message is displayed.
 
-## 6. Exercise 4: Sliding (Seek Bar)
+## Sliding Seek Bar
 
 ### Test Objective:
 - Automate sliding actions for a seek bar.
