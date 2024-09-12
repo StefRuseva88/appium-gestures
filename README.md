@@ -36,6 +36,15 @@ Mobile gestures simulate user interactions on touch devices like smartphones and
 - **Drag and Drop**: Move an object by dragging and releasing it.
 - **Zoom In/Out**: Use two fingers to change zoom levels.
 
+## Scrolling
+
+### Steps:
+- Automate scrolling actions using **Appium Inspector**.
+- Write and use the **ScrollToText** method to scroll until the text **"Lists"** is found.
+- Click on **Lists** and verify that **" Single choice list"** is displayed.
+
+---
+
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
