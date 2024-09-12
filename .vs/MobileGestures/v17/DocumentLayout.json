@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462E3D18-E3C8-40AD-960B-486A96CF33FE}|Zoom\\Zoom.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\resources\\appium\\appiumtests\\appium_testing_part2\\mobilegestures\\zoom\\zoomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462E3D18-E3C8-40AD-960B-486A96CF33FE}|Zoom\\Zoom.csproj|solutionrelative:zoom\\zoomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E554019E-06F9-44EF-A42A-285834DC7A5D}|Scroll\\Scroll.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\resources\\appium\\appiumtests\\appium_testing_part2\\mobilegestures\\scroll\\scrolltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E554019E-06F9-44EF-A42A-285834DC7A5D}|Scroll\\Scroll.csproj|solutionrelative:scroll\\scrolltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC4D1D1-121F-4172-A46F-3C7CD8D6B904}|Swipe\\Swipe.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\resources\\appium\\appiumtests\\appium_testing_part2\\mobilegestures\\swipe\\swipetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAC4D1D1-121F-4172-A46F-3C7CD8D6B904}|Swipe\\Swipe.csproj|solutionrelative:swipe\\swipetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA33852B-8980-4633-A8B6-F3BE652A499D}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\resources\\appium\\appiumtests\\appium_testing_part2\\mobilegestures\\draganddrop\\draganddroptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA33852B-8980-4633-A8B6-F3BE652A499D}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\draganddroptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FD543E-14DA-443B-8872-B05D83D6D18B}|Sliding\\Sliding.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\resources\\appium\\appiumtests\\appium_testing_part2\\mobilegestures\\sliding\\seekbartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FD543E-14DA-443B-8872-B05D83D6D18B}|Sliding\\Sliding.csproj|solutionrelative:sliding\\seekbartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZoomTests.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\Zoom\\ZoomTests.cs",
+              "RelativeDocumentMoniker": "Zoom\\ZoomTests.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\Zoom\\ZoomTests.cs",
+              "RelativeToolTip": "Zoom\\ZoomTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T15:41:55.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeekBarTests.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\Sliding\\SeekBarTests.cs",
+              "RelativeDocumentMoniker": "Sliding\\SeekBarTests.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\Sliding\\SeekBarTests.cs",
+              "RelativeToolTip": "Sliding\\SeekBarTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:37:01.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DragAndDropTests.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\DragAndDrop\\DragAndDropTests.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\DragAndDropTests.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\DragAndDrop\\DragAndDropTests.cs",
+              "RelativeToolTip": "DragAndDrop\\DragAndDropTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:47:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwipeTests.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\Swipe\\SwipeTests.cs",
+              "RelativeDocumentMoniker": "Swipe\\SwipeTests.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\Swipe\\SwipeTests.cs",
+              "RelativeToolTip": "Swipe\\SwipeTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:04:40.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScrollTests.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\Scroll\\ScrollTests.cs",
+              "RelativeDocumentMoniker": "Scroll\\ScrollTests.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing_Part2\\MobileGestures\\Scroll\\ScrollTests.cs",
+              "RelativeToolTip": "Scroll\\ScrollTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:19:14.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
