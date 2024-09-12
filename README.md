@@ -9,12 +9,6 @@
 ## Overview
 This repository provides a set of tests focused on automating common mobile gestures using **Appium** for mobile app testing, that includes gestures like taps, swipes, scrolls, drag-and-drop, and zoom using the **ApiDemos** app.
 
-### Prerequisites:
-- Install Appium Server.
-- Install Appium Inspector.
-- **ApiDemos-debug.apk** file.
-- Set up a virtual or real Android device for testing.
-
 ### Table of Contents:
 - [Mobile Gestures Overview](#mobile-gestures-overview)
 - [Scrolling](#scrolling)
@@ -26,6 +20,12 @@ This repository provides a set of tests focused on automating common mobile gest
 
 ---
 
+### Prerequisites:
+- Install Appium Server.
+- Install Appium Inspector.
+- **ApiDemos-debug.apk** file.
+- Set up a virtual or real Android device for testing.
+  
 ## Mobile Gestures Overview
 
 Mobile gestures simulate user interactions on touch devices like smartphones and tablets. These interactions include:
