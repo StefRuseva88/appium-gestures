@@ -1,1 +1,1 @@
-# Mobile Gesture Automation with Appium
+# Mobile Gestures Automation with Appium
