@@ -70,7 +70,6 @@ Mobile gestures simulate user interactions on touch devices like smartphones and
 ## Zoom In and Out
 
 ### Test Objective:
-- Automate zoom gestures using Appium Inspector.
 - Use Appium Inspector to create a zoom-in gesture and execute it.
 - Zoom out using similar steps.
 - Use the saved gesture to zoom in and out at specific coordinates on the **WebView**.
