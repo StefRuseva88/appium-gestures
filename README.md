@@ -17,14 +17,12 @@ This repository provides a set of tests focused on automating common mobile gest
 
 ### Table of Contents:
 1. Mobile Gestures Overview
-2. Appium Inspector: Interaction Mode in the Screenshot Panel
-3. Exercise 1: Scrolling
-4. Exercise 2: Swiping
-5. Exercise 3: Drag and Drop
-6. Exercise 4: Sliding (Seek Bar)
-7. Exercise 5: Zoom In/Out
-8. Using the Gestures Tab in Appium Inspector
-9. Running the Tests
+2. Exercise 1: Scrolling
+3. Exercise 2: Swiping
+4. Exercise 3: Drag and Drop
+5. Exercise 4: Sliding (Seek Bar)
+6. Exercise 5: Zoom In/Out
+7. Running the Tests
 
 ---
 
