@@ -38,13 +38,21 @@ Mobile gestures simulate user interactions on touch devices like smartphones and
 
 ## Scrolling
 
-### Steps:
+### Objective:
 - Automate scrolling actions using **Appium Inspector**.
 - Write and use the **ScrollToText** method to scroll until the text **"Lists"** is found.
 - Click on **Lists** and verify that **" Single choice list"** is displayed.
 
 ---
+## Swiping
 
+### Objective:
+- Automate swipe gestures using **Appium Inspector**.
+- Use Selenium's Actions class to simulate swiping.
+- Click and hold on the first image, move by an offset, and release.
+- Verify that the third image is visible.
+
+---
 ## Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
