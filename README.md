@@ -21,7 +21,7 @@ This repository provides a set of tests focused on automating common mobile gest
 ### Prerequisites:
 - Install Appium Server.
 - Install Appium Inspector.
-- **ApiDemos-debug.apk** file.
+- **Apk** file.
 - Set up a virtual or real Android device for testing.
   
 ## Mobile Gestures Overview
@@ -73,9 +73,6 @@ Mobile gestures simulate user interactions on touch devices like smartphones and
 - Use Appium Inspector to create a zoom-in gesture and execute it.
 - Zoom out using similar steps.
 - Use the saved gesture to zoom in and out at specific coordinates on the **WebView**.
-
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
